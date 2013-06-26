@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Novi prispevek"
+title: Novi prispevek
 description: "kratko besedilo prispevka"
 category: kategorija
-tags: [nov,prispevek,test]
+tags: nov, prispevek, test
 ---
 {% include JB/setup %}
 {% excerpt %}
