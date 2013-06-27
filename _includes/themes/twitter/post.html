@@ -1,5 +1,5 @@
 <div class="page-header">
-  <h1>{{ page.title }}</h1>
+  <h1>{{ page.title }} <small>{{ page.date | date_to_long_string }}</small> </h1>
 </div>
 
 <div class="row">
@@ -9,15 +9,15 @@
     <div class="pagination">
       <ul>
       {% if page.previous %}
-        <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Prejšnji</a></li>
+        <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Starejši</a></li>
       {% else %}
-        <li class="prev disabled"><a>&larr; Prejšnji</a></li>
+        <li class="prev disabled"><a>&larr; Starejši</a></li>
       {% endif %}
         <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Arhiv</a></li>
       {% if page.next %}
-        <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Naslednji &rarr;</a></li>
+        <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Novejši &rarr;</a></li>
       {% else %}
-        <li class="next disabled"><a>Naslednji &rarr;</a>
+        <li class="next disabled"><a>Novejši &rarr;</a>
       {% endif %}
       </ul>
     </div>
@@ -26,9 +26,7 @@
   </div>
   
   <div class="span2">
-    <h4>Objavljeno</h4>
-    <div class="date"><span>{{ page.date | date_to_long_string }}</span></div>
-
+    {% include JB/sharing %}
   {% unless page.tags == empty %}
     <h4>Značke</h4>
     <ul class="tag_box">

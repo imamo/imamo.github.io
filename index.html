@@ -12,12 +12,10 @@ tagline: Supporting tagline
   <p class="author">
     <span class="date">{{ post.date | date_to_string }}</span>
   </p>
-  <div class="content">
-    {% if post.excerpt_tag %}
-        {{ post.excerpt_tag | markdownify }}
-    {% else %}
-        {{ post.content }}
-    {% endif %}
+  <div class="index-content">
+    <p>{{ post.content | truncatewords:50 }}</p>
+    <p><a class="btn btn-primary" href="{{ post.url }}">Beri naprej &rarr;</a></p>
+    <hr>
   </div>
 {% endfor %}
 
