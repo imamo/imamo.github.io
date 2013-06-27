@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pa imam novega :)"
-description: "Novi blog zgrajen z Jekyll kar je super ql na github pages hostingu"
+description: "Končno! Novi blog zgrajen in bo izdelovan z Jekyll-om (RoR) kar je super ql :D"
 category: kartko
 tags: jekyll markdown programiranje
 ---
