@@ -7,6 +7,7 @@ tags:
 - jekyll
 - markdown
 - programiranje
+post_author: Danijel
 ---
 {% include JB/setup %}
 
