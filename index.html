@@ -6,3 +6,43 @@ tagline: Supporting tagline
 {% include JB/setup %}
 
 
+<!-- This loops through the paginated posts -->
+{% for post in paginator.posts %}
+  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  <p class="author">
+    <span class="date">{{ post.date | date_to_string }}</span>
+  </p>
+  <div class="content">
+    {% if post.excerpt_tag %}
+        {{ post.excerpt_tag | markdownify }}
+    {% else %}
+        {{ post.content }}
+    {% endif %}
+  </div>
+{% endfor %}
+
+<!-- Pagination links -->
+<div id="post-pagination" class="pagination">
+  <ul class="pages">
+      {% if paginator.page == 1 %}
+    <li class="disabled">
+       <a class="current-page">1</a>
+	<li>        
+      {% else %}
+      <li class="page">
+        <a href="/">1</a>
+       <li> 
+      {% endif %}
+    {% for count in (2..paginator.total_pages) %}
+        {% if count == paginator.page %}
+        <li class="disabled">
+          <a class="current-page">{{ count }}</a>
+        </li>
+        {% else %}
+        <li class="page">
+          <a href="/page{{ count }}">{{ count }}</a>
+		<li>
+        {% endif %}
+    {% endfor %}
+  </ul>
+</div>
