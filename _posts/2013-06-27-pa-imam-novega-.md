@@ -3,7 +3,7 @@ layout: post
 title: "Pa imam novega :)"
 description: "Novi blog zgrajen z Jekyll kar je super ql na github pages hostingu"
 category: blog
-tags: blog jekyll markdown
+tags: jekyll markdown programiranje
 ---
 {% include JB/setup %}
 
