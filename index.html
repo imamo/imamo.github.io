@@ -5,8 +5,11 @@ description: "Danijels blog. Pišem o vsem po malem kar mi pač trenutno roji po
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
-
-
+  <blockquote>
+  <p>The ones who are crazy enough to think that they can change the world, are the ones who do.</p>
+  <small>Steve Jobs</small>
+</blockquote>
+<hr> 
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>

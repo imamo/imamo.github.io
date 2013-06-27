@@ -3,7 +3,10 @@ layout: post
 title: "Pa imam novega :)"
 description: "Končno! Novi blog zgrajen in bo izdelovan z Jekyll-om (RoR) kar je super ql :D"
 category: kartko
-tags: jekyll markdown programiranje
+tags: 
+- jekyll
+- markdown
+- programiranje
 ---
 {% include JB/setup %}
 
