@@ -60,12 +60,31 @@
             <li><a href="/pages.html">Strani</a></li>
             <li><a href="/about.html">Who?</a></li>
           </ul>
+          <!-- Google search -->
+          <div id='cse'>Loading</div>
+          <script src='//www.google.com/jsapi' type='text/javascript'></script>
+          <script type='text/javascript'>
+          google.load('search', '1', {language: 'sl', style: google.loader.themes.V2_DEFAULT});
+          google.setOnLoadCallback(function() {
+            var customSearchOptions = {};
+            var orderByOptions = {};
+            orderByOptions['keys'] = [{label: 'Relevance', key: ''} , {label: 'Date', key: 'date'}];
+            customSearchOptions['enableOrderBy'] = true;
+            customSearchOptions['orderByOptions'] = orderByOptions;
+            customSearchOptions['overlayResults'] = true;
+            var customSearchControl =   new google.search.CustomSearchControl('018091271476138516665:phgafg07wee', customSearchOptions);
+            customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+            var options = new google.search.DrawOptions();
+            options.setAutoComplete(true);
+            customSearchControl.draw('cse', options);
+          }, true);
+          </script>
+          <!-- G search end -->
         </div>
       </div>
     </div>
 
     <div class="container">
-
       <div class="content">
         {{ content }}
       </div>
