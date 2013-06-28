@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Vsega po malem o vsem</title>
+ <link href="http://danijelocepek.name/" rel="self"/>
+ <link href="http://danijelocepek.name"/>
+ <updated>2013-06-28T17:11:30+02:00</updated>
+ <id>http://danijelocepek.name</id>
+ <author>
+   <name>Danijel</name>
+   <email>danijel@net.si</email>
+ </author>
+
+ 
+ <entry>
+   <title>Polna mera obiska spletne strani</title>
+   <link href="http://danijelocepek.name/splet/2013/06/28/polna-mera-obiska"/>
+   <updated>2013-06-28T00:00:00+02:00</updated>
+   <id>http://danijelocepek.name/splet/2013/06/28/polna-mera-obiska</id>
+   <content type="html">&lt;p&gt;Ste že kdaj videli kako izgleda ko imaš na sekundo nekaj sto ali tisoč zahtevkov za ogled spletne strani? No tukaj je en lep prikaz ;)&lt;/p&gt;
+&lt;iframe frameborder='0' height='394' src='http://player.vimeo.com/video/69317575' width='700'&gt;        &lt;/iframe&gt;
+&lt;p&gt;&lt;em&gt;epp: seveda za &lt;a href='http://www.spletnaabeceda.si'&gt;strežnik na katerem spletne stran gostuje&lt;/a&gt; ni težav z obdelavo vseh zahtevkov ;)&lt;/em&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Pa imam novega :)</title>
+   <link href="http://danijelocepek.name/kartko/2013/06/27/pa-imam-novega-"/>
+   <updated>2013-06-27T00:00:00+02:00</updated>
+   <id>http://danijelocepek.name/kartko/2013/06/27/pa-imam-novega-</id>
+   <content type="html">&lt;p&gt;Blog namreč :). Malce prenovljen preprostejši in predvsem hitrejši način :) Pri gradnji pomaga v osnovi &lt;a href='http://jekyllrb.com'&gt;Jekyll&lt;/a&gt; za malček lažje in hitrejše kreiranje contenta ter izgled mi pomaga &lt;a href='http://jekyllbootstrap.com/'&gt;Jekyll Bootstrap&lt;/a&gt;, content pa pišem v &lt;a href='http://daringfireball.net/projects/markdown/'&gt;Markdown editorju&lt;/a&gt; preprosto v &amp;#8220;beležnici&amp;#8221; kar vse skupaj pomeni super hitro :) Kot sprememba pa sem dodal &lt;a href='http://www.facebook.com'&gt;Facebook&lt;/a&gt; komentiranje, da vidim če bo zaradi tega kaj več odziva na poste :P&lt;/p&gt;
+
+&lt;p&gt;Ni seveda še vse dodelano bo pa kmalu oz. postopoma. Tako to je to zaenkrat. Preneseni so tudi vsi stari prispevki iz &lt;a href='http://tumblr.com'&gt;Tumblr&lt;/a&gt;-ja seveda s pomočjo Jekyll importerja tako da do novih prispevkov lahko osvežite spomin in v razmislek s kakšnim starejšim ;)&lt;/p&gt;
+
+&lt;p&gt;Kaj več o samem objavljanju pa bom tudi še pisal, kako in na kakšen način in zakaj je to tko ql. Res pa je da drži kot so zapisali na enem od Jekyll framework-u &lt;a href='http://octopress.org'&gt;Octopress&lt;/a&gt; &lt;em&gt;(žal ga ne morem uporabljat ker ima/m težave s šumniki katere mi še ni uspelo odkriti zakaj)&lt;/em&gt; -&amp;gt; &lt;strong&gt;A blogging framework for hackers.&lt;/strong&gt; ;)&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Piškotki</title>
+   <link href="http://danijelocepek.name/kartko/2013/06/15/me-prav-zanima-koliko-ivcev-asa-in--sem-za-isto-brez-veze-zabil-zaradi-pikotkov-me-prav-zanima-nmusar-komu-izstavimo-raun-niti-spletne-strani-uradnih-oseb-ne-spotujejo-vseh-oz-vsaj-tistih-pomembnih-usm"/>
+   <updated>2013-06-15T00:00:00+02:00</updated>
+   <id>http://danijelocepek.name/kartko/2013/06/15/me-prav-zanima-koliko-ivcev-asa-in--sem-za-isto-brez-veze-zabil-zaradi-pikotkov-me-prav-zanima-nmusar-komu-izstavimo-raun-niti-spletne-strani-uradnih-oseb-ne-spotujejo-vseh-oz-vsaj-tistih-pomembnih-usm</id>
+   <content type="html">&lt;img src=&quot;/tumblr_files/tumblr_mofmmjzuXc1s9lu3ro1_1280.png&quot; width=&quot;700&quot; height=&quot;500&quot;/&gt;
+
+&lt;p&gt;Me prav zanima koliko živcev, časa in € sem za čisto brez veze zabil zaradi
+	  piškotkov. Me prav zanima @nmusar? Komu izstavimo račun? Niti spletne strani uradnih
+	  oseb ne spoštujejo vseh oz. vsaj tistih pomembnih usmeritev IP-ja. Če so te tako
+	  nepomembne in so zgolj za meglo in da so tako kavbojske rešitve sprejemljive in
+	  dopustne potem povejte bomo tudi ostali tako naredili smo potem ne z kakšnimi inšpektorji
+	  okoli letat! Čedalje bolj občutek imam, da je bilo tole spet eden izmed tisti zakonov
+	  ko se bo j…. na suho tiste, ki nimajo za odvetnik.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Iz Cajtng kolumne: Meglice in 300 na uro</title>
+   <link href="http://danijelocepek.name/politika/cajtng/2013/06/13/iz-cajtng-kolumne-meglice-in-300-na-uro"/>
+   <updated>2013-06-13T00:00:00+02:00</updated>
+   <id>http://danijelocepek.name/politika/cajtng/2013/06/13/iz-cajtng-kolumne-meglice-in-300-na-uro</id>
+   <content type="html">&lt;p&gt;Ko smo vedno bolj obremenjeni z delom, ko marsikdo ne ve ali bo jutri še imel delovno mesto, smo postali otopeli, nezainteresirani, pa preveč utrujeni za spremljanje aktualnega družbeno-političnega stanja. Seveda razumljivo - čas, ko ga imamo, raje preživimo z družino in prijatelji, da se sprostimo, odpočijemo in poveselimo.&lt;br/&gt;&lt;br/&gt;V času neprijetnih novic za državljane se dogodijo odmevne medijske zgodbe z bolj ali manj srečnim koncem in razlogom za veselje državljanov. Kar nas bolj ali manj uspešno odvrne od spremljanja dogodkov in odločitev politikov, kar bo na naše življenje vplivalo čez nekaj mesecev ali let. Kdo bi temu rekel naključja, jaz temu rečem interesi. &lt;strong&gt;Ko so interesi neprijetni za pojasnjevanje, le-ti postanejo naključja in/ali teorije zarote.&lt;/strong&gt; Posledično ob doslednem ponavljanju te »mantre« pridemo do medijsko vodljive družbe z zelo kratkim spominom, ko pride do političnega dogajanja in volitev.&lt;br/&gt;&lt;br/&gt;Ne verjamem, da je tako močna ideološka razdeljenost naroda na takšnih temah v našem skupnem interesu. Razdeljenost naroda ni še nikoli v zgodovini bila dobra za narod ali državo, ustrezala pa je zgolj tistemu, ki je to razdeljenost ustvarjal.&lt;br/&gt;&lt;br/&gt;Tako nekako, v zadnjem času še prav aktivno, izvaja manevre politična kasta – z razdeljenostjo do, kot kaže, načrtnega uničevanje demokracije in gospodarstva v Sloveniji. Dostikrat se vprašam, koliko časa še, kako daleč je še trenutek, ko bo zmanjkalo poti?&lt;br/&gt;&lt;br/&gt;Politiko države trenutno vodijo politiki, katerim je pomembnejše kolikokrat se bodo pokazali pred kamerami, kot najstniške zvezdnice, kot pa dejansko reševanje trenutne situacije, v kateri je Slovenija, z malo več razmisleka, drznosti, poguma in inovativnostjo, ne zgolj s hlapčevskim sledenjem navodil iz EU in kljukanjem le-teh, ki so za državo in demokracijo uničujoči. Mimogrede, da so uničujoči in napačni, je v tem tednu priznal tudi Mednarodni denarni sklad (IMF), eden izmed članov t.i. trojke.&lt;br/&gt;&lt;br/&gt;Ni ga politika, ki bi bil nenadomestljiv in brez katerega država ne bi mogla delovati in preživeti! Prepričan sem bil, da je takšen sistem za nas preživet, žal, kot kaže, sem se motil. Povzdigovanje in oklicevanje politikov v odrešitelje naroda, svetnike in malodane bogove, je po mojem skromnem prepričanju najmanj pomilovanja vredno, po svetem pismu bogokletno in primerno za napotnico v Lj-Polje.&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Uničevanja gospodarstva&lt;/strong&gt;: Pred časom je bila predlagana novela zakona, ki bi prepovedovala ustanavljanje novega podjetja tistim ljudem, ki bi bili v vodstvu ali nadzornem organu podjetja, ki je v stečaju. Ustavno sodišče je ta del zakona razveljavilo z obrazložitvijo, da je novela preveč skrajna in da bi upočasnila gospodarski razvoj. So pri tej odločitvi v ozadju interesi? Ali je tudi to zgolj naključje, da se je ustavno sodišče ponovno postavilo na stran kapitala, ne pa v bran državljanom in delavcem? Mimogrede, med največjimi davčnimi dolžniki so takšni, ki so podjetja odpirali kot po tekočem traku, jih spravili v stečaj, ob tem pa izkoriščali delavce, jim neizplačevali prispevke, plače&amp;#8230; Podobno ureditev, kot jo je zavrnilo naše ustavno sodišče, ima tudi sosednja Avstrija. Ji gre slabo? Je gospodarsko nerazvita in ima počasen gospodarski razvoj?&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Uničevanja demokracije:&lt;/strong&gt; Kaj vse se je zgodilo v zgodbi Hilde in njenega tako prikazanega pobega, ne bom ponavljal, je bilo dovolj povedanega. Bolj zaskrbljujoče je dejstvo, da so se istočasno sprejemale veliko bolj zaskrbljujoče odločitve, na katere so mediji v večini v tistem trenutku pozabili ali spregledali, ravno tako pa tudi vsi mi ostali. Politiki so očitno vedeli, kdaj je primeren trenutek za odvzem pravic, zapisanih v ustavi, pravico do samoodločanja in sprejeti »ukrepe« za preložitev bremena »krize« na državljane. Naključje, da sta se oba dogodka časovno pokrivala? Interesi? Zagotovo pa so dosegli, kar so želeli. Ni bilo protestov, ni bilo nobenega pretiranega razburjanja okoli tega, saj je cela Slovenija “slavila”, ko se je prijelo Hildo, pardon predala se je sama, niso je ujeli. Po tem je bilo govora o vrsti čudnih naključij, nepomembnih napakah in iskanjem krivca, kar se je zaključilo seveda z ugotovitvijo nepomembne napake v dneh, ko je potekala že nova medijska zgodba, jok, drama, ekscesi, nestrpnost, veselje, zadovoljstvo in predvsem sanje. Naključje?&lt;br/&gt;&lt;br/&gt;Žal se Slovenija v zadnjih 23 letih iz vsakih sanj zbuja v realnost bolj kruto od prejšnjega dne, v državo, v kateri se postavlja kapital in banke pred demokracijo, socialne pravice in pred ljudi.&lt;br/&gt;&lt;br/&gt;V državo, v kateri se na račun razdeljenosti in zaslepljenosti državljanov, eni in drugi politiki prerivajo pri koritih in skrbijo zgolj za lastne interese, ob vedno bolj praznih »koritih« pa so stopili do konca na plin, da se razproda in uniči še vse tisto, kar je vredno, seveda zgolj za njihovo korist, ob tem pa ustvarjajo »meglice«, da ostajajo državljani še naprej zaslepljeni z odmevnimi medijskimi zgodbami, polnih »naključij« in razdeljeni na temah, ki ne koristijo nikomur v sedanjosti, še manj pa v prihodnosti, razen seveda ustvarjalcem te delitve.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Kaj je GIT</title>
+   <link href="http://danijelocepek.name/linux/programiranje/2013/06/07/"/>
+   <updated>2013-06-07T00:00:00+02:00</updated>
+   <id>http://danijelocepek.name/linux/programiranje/2013/06/</id>
+   <content type="html">&lt;iframe width=&quot;700&quot; height=&quot;395&quot; src=&quot;http://www.youtube-nocookie.com/embed/OiiZIVb-rZ4?wmode=transparent&amp;autohide=1&amp;egm=0&amp;hd=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;showinfo=0&amp;showsearch=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;br/&gt;&lt;p&gt;Ena boljših predstavitev GIT-a in njegove uporabnosti. (mimogrede na videu govori ženska, da ne bo kdo zmeden :) )&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Back to the roots :)</title>
+   <link href="http://danijelocepek.name/linux/fotke/2013/05/12/back-to-the-roots--debian-linux-os-kmalu-bo-praznoval-20-obletnico-1682013-pred-nekaj-dnevi-pa-je-izdal-novo-razliico-debian-7-katero-sem-seveda-moral-stestirat-ja-oe-ubuntu-linux-a-je-eenkrat-ve-oprav"/>
+   <updated>2013-05-12T00:00:00+02:00</updated>
+   <id>http://danijelocepek.name/linux/fotke/2013/05/12/back-to-the-roots--debian-linux-os-kmalu-bo-praznoval-20-obletnico-1682013-pred-nekaj-dnevi-pa-je-izdal-novo-razliico-debian-7-katero-sem-seveda-moral-stestirat-ja-oe-ubuntu-linux-a-je-eenkrat-ve-oprav</id>
+   <content type="html">&lt;img src=&quot;/tumblr_files/tumblr_mmomd0kk731s9lu3ro1_1280.png&quot; width=&quot;800&quot; height=&quot;600&quot;/&gt;
+
+Debian Linux OS. Kmalu bo praznoval 20 obletnico (16.8.2013.).
+  Pred nekaj dnevi pa je izdal novo različico Debian 7 katero sem seveda moral stestirat
+  :).
+
+  Ja “oče” Ubuntu Linux-a je šeenkrat več opravičil svoj sloves po stabilni izdaji
+  v kateri je vsak paketek pretestiran n-krat.
+
+  Na starem prenosniku, ki je praznoval letos polovično Debian-ovo obletnico, definitivno
+  ostane gor, ker je že dolgo tega kar je kakšen OS tako tekoče in dobro na njemu
+  deloval.
+
+  Če imate sta računalnik/prenosnik, na katerem že z Win XP deluje bolj kot ne počasi
+  dajte priložnost Debian Linux-u boste zagotovo pozitivno presenečeni nad delovanjem.
+  Za test je seveda na voljo tudi Debian Live CD/DVD.
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Elementary OS</title>
+   <link href="http://danijelocepek.name/linux/fotke/2013/05/10/zanimiva-in-vena-linux-distribucija-elementary-os-luna-httpelementaryosorglinux-u-kot-e-nikolikokrat-povedano-manjkajo-samo-e-uporabne-malek-bolj-napredne-aplikacije-takne-vsakodnevne--npr-photoshop-dr"/>
+   <updated>2013-05-10T00:00:00+02:00</updated>
+   <id>http://danijelocepek.name/linux/fotke/2013/05/10/zanimiva-in-vena-linux-distribucija-elementary-os-luna-httpelementaryosorglinux-u-kot-e-nikolikokrat-povedano-manjkajo-samo-e-uporabne-malek-bolj-napredne-aplikacije-takne-vsakodnevne--npr-photoshop-dr</id>
+   <content type="html">&lt;img src=&quot;/tumblr_files/tumblr_mmldw0MWfH1s9lu3ro1_1280.png&quot; width=&quot;700&quot; height=&quot;500&quot;/&gt;
+
+&lt;p&gt;Zanimiva in všečna Linux distribucija Elementary OS (Luna), &lt;a href=&quot;http://elementaryos.org/&quot;&gt;http://elementaryos.org/&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Linux-u kot že ničkolikokrat povedano manjkajo samo še uporabne malček bolj napredne
+  	aplikacije, takšne vsakodnevne :) (npr. photoshop) drugače pa je za domače uporabnike
+  	(surfanje, pisanje, torrenti, gledanje filmov… in ja tudi Facebook dela :) ) čisto
+  	dovolj.&lt;/p&gt;
+
+  &lt;p&gt;Z Elementary Os distribucijo pa je postal še očesu prijazen ;) (vsaj za moj okus).&lt;/p&gt;
+
+  &lt;p&gt;Wallpaper pa je že zamenjan, mi ta bolj paše zraven :) Ob priliki pa posnemem še
+  	kakšen screencast.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>BANDA KRAWATARSKA</title>
+   <link href="http://danijelocepek.name/video/2013/05/09/"/>
+   <updated>2013-05-09T00:00:00+02:00</updated>
+   <id>http://danijelocepek.name/video/2013/05/</id>
+   <content type="html">&lt;iframe width=&quot;400&quot; height=&quot;300&quot; src=&quot;http://www.youtube.com/embed/HQqxSna7Wjk?wmode=transparent&amp;autohide=1&amp;egm=0&amp;hd=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;showinfo=0&amp;showsearch=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;br/&gt;&lt;p&gt;&lt;strong&gt;BANDA KRAWATARSKA &lt;em&gt;- &lt;/em&gt;&lt;/strong&gt;&lt;a href=&quot;http://www.macefizelj.si/bakalina/besedila/buohdidabra_banda-krawatarska.html&quot;&gt;&lt;em&gt;Macefizelj.si&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;USI KA ME PAZNASTE VIESTE DE SM KMET PAŠTEN, &lt;br/&gt;DE NČ SE RAD NA LAŽEM N DE M DIELAT NI PROBLEM, &lt;br/&gt;UČIL SA ME DE JE LENABA ZLA VELK SMRTN GRIEH, &lt;br/&gt;DE JABKE UKRAST NA SMIEŠ ČE TUD LEŽI NA TAIH TLIEH. &lt;br/&gt;&lt;br/&gt;MA ZEJ SA TAKI CAJTI, DE JE SKUOZ LE VČ LDI, &lt;br/&gt;KA ŽIVIJE NA NAŠ RAČUN N DIELA IM SMRDI, &lt;br/&gt;SEDIJE U PISARNAH N USE DNIEVE TUHTAJE, &lt;br/&gt;KAKUO WN Z NAS NARDIL ŠE MALA VEJČ BI RIEVEŽE. &lt;br/&gt;&lt;br/&gt;-BANDA KRAVATARSKA, &lt;br/&gt;NABENMU DIELAT SE NA DA! &lt;br/&gt;USI LE TUO ŠTEDIRAJE KAKUO NAS BL NALAŽEJE, &lt;br/&gt;DE PALE NA KANC KANCEU NAS ČIM BL AKRADEJE. &lt;br/&gt;&lt;br/&gt;SM MLAD BU N NAUMN KMET KR JST SM IM VERJEU, &lt;br/&gt;DE LUOŽ MI BO ČE SOUDE NIHOWE BOM JST UZIEU, &lt;br/&gt;SA REKLI MI DE BOM KAMUOT ZREDIU ŠE KŠNA KRAWA, &lt;br/&gt;DE NIHOWA EDINA JE EKONOMIJA PRAWA. &lt;br/&gt;&lt;br/&gt;N RIES LEPUO SM ŽIVU N USEGA PUHNA MIEU &lt;br/&gt;N SAME LIEPE PIESMCE VESELE SM SI PIEU, &lt;br/&gt;MA NI BLUO DUGA CAJTA KA JE PRŠ HUDIČ S KRAWATA, &lt;br/&gt;TRIKRT VČ KAR MI JE DAU JE NIESU SKUZ URATA. &lt;br/&gt;&lt;br/&gt;-BANDA KRAVATARSKA, &lt;br/&gt;NABENMU DIELAT SE NA DA! &lt;br/&gt;USI LE TUO ŠTEDIRAJE KAKUO NAS BL NALAŽEJE, &lt;br/&gt;DE PALE NA KANC KANCEW NAS ČIM BL AKRADEJE. &lt;br/&gt;&lt;br/&gt;UČASIH JE BLUO TKUO DE JE BU KMET SUOJ GASPADAR, &lt;br/&gt;MU ZA PAPIRJE N POLITIKA NI BLUO ZLA MAR, &lt;br/&gt;ZEJ KMET ŽE NUCA TAJNICA N RIES CIEU KUP PAPIRJEU, &lt;br/&gt;LIH KAJ DE NE ZA USAKGA AD EUROPSKIH KAMANDIRJEU. &lt;br/&gt;&lt;br/&gt;JA SAMI SMA SI KRIWI, KA SMA SILLI U EUROPA, &lt;br/&gt;ČETUD SMA VIEDLI, DE TA BANDA LAŽE MPA ROPA, &lt;br/&gt;ZEJ ŠEFI NAŠI SA NAJVIEČI NEPRIJATELI, &lt;br/&gt;JST PRAWM IM BANDITI AL PA KR KRAWATARI. &lt;br/&gt;&lt;br/&gt;-BANDA KRAVATARSKA &lt;br/&gt;N Z NIMI USA EUROPA RAWBARSKA! &lt;br/&gt;ČE RIEKU BI IM CGAJNARI, BI ŽALU JST CIGANE, &lt;br/&gt;ZATUO BOM JST RAJŠ RIEKU KR NAJ ZLUMAK IH UZAME. &lt;br/&gt;&lt;br/&gt;NA NUCAM JST RAZVOJA N DE ME PADPIRAJE, &lt;br/&gt;UTKNEJE NAJ NIEKAM SI USE SUBVENCIJE, &lt;br/&gt;PRVČ SM ŽIWCEU ZGUBU JST ZA USE TIELE REČI, &lt;br/&gt;ZEJ SM ŽE PROU NA KANCU N DA SMIEHA VČ MI NI. &lt;br/&gt;&lt;br/&gt;EN DAN K SE MI UTRGA BOM PRIJEW TAWSTRE VILE, &lt;br/&gt;AL PA KR ZA KRAWATA, ČE IM ŽIE AKOU VISIJE, &lt;br/&gt;SEJ TKUO AL TKUO ZA LUMPE JE UŠTIMAN WS TA SVIET, &lt;br/&gt;MI NA BO HUDGA, ČE BOM MALA MAGU JT SEDIET. &lt;br/&gt;&lt;br/&gt;-BANDA KRAVATARSKA &lt;br/&gt;N Z NIMI USA EUROPA RAWBARSKA! &lt;br/&gt;ČE RIEKU BI IM CGAJNARI, BI ŽALU JST CIGANE, &lt;br/&gt;ZATUO BOM JST RAJŠ RIEKU KR NAJ ZLUMAK IH UZAME. &lt;br/&gt;&lt;br/&gt;GAWARI SE DE PRŠLI BODA CAJTI ŽALASTNI, &lt;br/&gt;KA BUOH NA BO VČ TRPU USEH TEH GRIEHOW AD LDI, &lt;br/&gt;TISKRT BODA POTRESI N NEURJA ZA KAMPLIT, &lt;br/&gt;PROW GVIŠNA CIEU KRAWATARSKI SISTEM BO ŠU FALIT. &lt;br/&gt;&lt;br/&gt;JST MISLEM DE DRŽINA SAJE ZNAU BOM PRSKRBIET &lt;br/&gt;N DE NAM HUJŠE LAKATE NA BO TRIEBA TRPIET, &lt;br/&gt;TISKRT BO PRŠ KRAWATAR NA URATA ME PRASIT, &lt;br/&gt;BOM DIEU NAJ SI GRE PREJ USE PAPIRJE UREDIT. &lt;br/&gt;&lt;/em&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Predlagal sem popravke statuta Občine Trebnje</title>
+   <link href="http://danijelocepek.name/politika/2013/05/08/predlagal-sem-popravke-statuta-obine-trebnje"/>
+   <updated>2013-05-08T00:00:00+02:00</updated>
+   <id>http://danijelocepek.name/politika/2013/05/08/predlagal-sem-popravke-statuta-obine-trebnje</id>
+   <content type="html">&lt;p&gt;Zadnjič sem zasledil da se bodo naredili popravki v statutu občine Trebnje. Seveda sem z veseljem izkoristil priložnost, da pošljem nekaj popravkov oz. predlogov. Celoten dopis pa objavljam tudi tukaj (poslan je bil 2 minuti nazaj).&lt;/p&gt;
+&lt;p&gt;Kakšen bo uspeh teh predlogov ne vem&amp;#8230; ima pa občutek da bo šlo vse skupaj mimo. Sem pa ob prebiranju statuta oz. predloga statuta izvedel kar nekaj zanimivosti ;)&lt;/p&gt;
+&lt;p&gt;Dovoljujem, da se spodnje točke in argumente skopira in prepošlje na njihov naslov, kamor sprejemajo predloge in pripombe (obcina.trebnje@trebnje.si), časa pa je samo do 10. 5. 2013.&lt;!-- more --&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;-&lt;/p&gt;
+&lt;p&gt;Spoštovani,&lt;br/&gt;na podlagi vašega poziva iz dne 5.4 na spletni strani trebnje.si (&lt;a href=&quot;http://trebnje.si/sl/core_articles/1641&quot;&gt;&lt;a href=&quot;http://trebnje.si/sl/core_articles/1641&quot;&gt;http://trebnje.si/sl/core_articles/1641&lt;/a&gt;&lt;/a&gt;) vam pošiljam nekaj predlogov za spremembe oz. dopolnitve statuta občine Trebnje.&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;1. Popravek:&lt;/strong&gt;&lt;br/&gt;Med prebiranjem sem opazil manjšo pravopisno napako in sicer v 78 členu 4. odstavek.&lt;br/&gt;&amp;#8230; Župan lahko zahtevo s sklepom zavrne, če ugotovi, da zahteve ni podprlo zadostno število volivcev.&lt;strike&gt; Slep&lt;/strike&gt; Sklep z obrazložitvijo se vroči&amp;#8230;.&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;2. Predlog za dopolnitev 21. člena (seje občinskega sveta)&lt;/strong&gt; in sicer z dodatnim odstavkom, ki se glasi:&lt;br/&gt;Na vsaki seji občinskega sveta mora biti predvidena točka za predloge, komentarje in vprašanja občanov občine Trebnje.&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;strong&gt;Pojasnilo predloga&lt;/strong&gt;&lt;br/&gt;Na kar nekaj sejah občinskega sveta so bili prisotni občani, ki so želeli izraziti svoje mnenje glede aktualne teme. Nekateri so žal skočili v besedo svetnikom, kar seveda ni kulturno, nekateri so žal ostali tiho, spet tretji, ki so želeli kulturno priti do besede in izraziti svoje mnenje, dovoljenja za besedo enostavno niso dobili ali so po pregovarjanjih komajda prišli do nje. Ker imamo vsi državljani Republike Slovenije v ustavi zapisano pravico do svobodnega izražanja svojega mnenja, sem prepričan, da bi bilo dobro za vse, tako za občinski svet (nemoteno seje) kot za občane (bodo lahko izrazili svoje mnenje), da se na vsaki seji občinskega sveta zagotovi določen čas da tudi občani povedo svoje mnenje, vprašanja ter podajo pobude, katere lahko pozitivno vplivajo na razvoj naše skupne občine.&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;Vsekakor pa sem tudi za, da se čas te točke smiselno omeji ter tudi čas razpravljalca in ravno tako bi predlagal, da smejo razpravljati le tisti, ki so v nekem časovno določenem roku prijavljeni k razpravi.&lt;br/&gt;In še zgolj dobronameren nasvet. Politiki lahko poslušate sedaj že lep čas, da ne slišite in ne želite poslušati, kaj vam imajo občani/državljani za povedati. Na ta način boste dali občanom legitimno možnost, da vam povedo svoje mnenje ter da slišite njihove predloge za razvoj občine, ki jih morda drugače nikoli ne bi.&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;strong&gt;3. sprememba 33. člena 1. odstavek&lt;/strong&gt; in sicer da se glasi:&lt;br/&gt;Za pomoč pri opravljanu nalog župana ima občina naveč enega podžupana. Podžupana izmed članov občinskega sveta imenuje in razrešuje župan.&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;strong&gt;Pojasnilo spremembe&lt;/strong&gt;&lt;br/&gt;Občina Trebnje tudi v času, ko je bila večja ni vedno imela dveh podžupanov in sem mnenja da tudi sedaj ni nikakršne potrebe (razen verjetno politične matematike), po dveh podžupanih, saj so se primerno z zmanjšanjem velikosti občine zmanjšale tudi županove obveznosti katerega pa lahko brez težav nadomešča ena podžupanja oz. en podžupan. Vsekakor pa se lahko po potrebi določi kadarkoli en ali več nadomestnih podžupanov, kot le-to poznajo že v drugih občinah po Sloveniji (npr Celje ima eno podžupanjo ter tri nadomestne podžupane) in o čemer govorijo tudi nadaljni členi v statutu oz. predlogu statuta občine Trebnje. Želel bi vas spomniti tudi na usmeritev ZUJF-a, ki govori o zmanjšanju porabe javnofinančnih sredstev in zakaj ne bi zmanjšali mesto nepoklicnih, a plačanih funkcionarjev, po katerih realno ni potrebe.&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;strong&gt;4. sprememba 33. člen 6. odstavek&lt;/strong&gt; in sicer da se ga, v kolikor ni nujno potrebno, ne doda oz. ne usklajuje z zakonom o ZLS.&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;strong&gt;Pojasnilo spremembe&lt;/strong&gt;&lt;br/&gt;Ta del je v samem zakonu o ZLS zapisan že od leta 2008 in če ga do sedaj ni bilo zapisanega v statutu, predvidevam, da tudi sedaj ni ravno nujno potrebno, da se le to zapiše oz. usklajuje. Menim, da občina Trebnje ni tako velika da bi bilo število nalog tolikšno, da bi morali imeti zaposlenega župana in podžupana. Prepričan sem, da se lahko kaj hitro na podlagi tega odstavka zgodi, da se bodo zaposlovali podžupani zgolj zaradi političnih kupčij ne pa tudi zaradi dejanskih potreb, kar pa seveda pomeni, da bo zaradi tega oškodovan tako občinski proračun in prebivalci občine Trebnje, ker bo zmanjkalo sredstev za izvedbo prepotrebnih projektov.&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;Hvala že vnaprej za obravnavo ter odgovor na predloge.&lt;br/&gt;Želim vam lep in uspešen dan!&lt;br/&gt;Danijel Ocepek, občan občine Trebnje&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Nikolovski - video</title>
+   <link href="http://danijelocepek.name/video/2013/05/04/"/>
+   <updated>2013-05-04T00:00:00+02:00</updated>
+   <id>http://danijelocepek.name/video/2013/05/</id>
+   <content type="html">&lt;iframe width=&quot;400&quot; height=&quot;300&quot; src=&quot;http://www.youtube.com/embed/Wmo_6ZKaFYQ?wmode=transparent&amp;autohide=1&amp;egm=0&amp;hd=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;showinfo=0&amp;showsearch=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;br/&gt;&lt;p&gt;Nikolovski ima definitivno komade z močnim sporočilom, ki se dotakne vsakogar, ki jih posluša z srcem in seveda razume sporočilo. RESPECT!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Uničevanje pod pretvezo reševanja?</title>
+   <link href="http://danijelocepek.name/politika/2013/05/03/unievanje-pod-pretvezo-reevanja"/>
+   <updated>2013-05-03T00:00:00+02:00</updated>
+   <id>http://danijelocepek.name/politika/2013/05/03/unievanje-pod-pretvezo-reevanja</id>
+   <content type="html">&lt;p&gt;Aktualni dogodki v Sloveniji zadnjih nekaj dni. Razmišljam. Čufer je po mojem prepričanju vedel za znižanje bonitetne ocene zato je tudi postavil izhodiščno obrestno mero na obveznico tako visoko. Trgu je že pred objavljeno znižano bonitetno oceno s tem sporočil, da se bo to zgodilo zato trg ni bil presenečen. To pa tudi pojasnjuje zakaj se v tem času ni oglasil in pojasnil situacije, mu je ni bilo potrebno, je vedel kaj dela.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Odnos do državljanov in države, katero je tako hudo drago zapufal pa je druga stvar. Zanj in za naše politike smo državljani očitno drugotnega pomena (drugorazredna tema) a o to ne bom komentiral.&lt;/p&gt;
+&lt;p&gt;&lt;!-- more --&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Tujina in tuji finančniki, nam govorijo, da moramo izboljšati gospodarstvo od naših medijev in politikov pa poslušamo, da je prioriteta slaba banka in fiskalno pravilo, slednje je mimogrede že sedaj brezpredmetno, ker smo zadoženi že krepko čez prag fiskalnega pravila.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;No to dvoje (dvig gospodarstva in slaba banka) mi nikakor še vedno ne gre skupaj. Vesel bom, če mi bi lahko kdo to pojasnil, lahko tudi ob kavi na štiri oči, če je tema preveč kompleksna za pojasniti preko spleta.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Vprašanje, ki se mi postavlja in ga nikakor ne dojamem oz. verjetno ne vidim odgovora na njega.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Kako bo slaba banka prispevala k zvišanju gospodarske produktivnosti in zmanjšanju brezposelnosti?&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;No na to vprašanje nikakor ne najdem odgovora. Nihče tega še ni konkretno vprašal naš cvet ekonomistov, analitikov in finančnih strokovnjakov. Nihče od naštetih do sedaj tega še ni konkretno pojasnil.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Vse, kar dobimo na vprašanje zmanjšanja brezposelnosti in povečanja produktivnosti gospodarstva, je odgovor, da je potrebno rešiti banke a brez pojasnila, zakaj in kako bo slaba banka pomagala pri reševanju omenjenih problemov.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Očitno smo tudi pri iskanju tega odgovora, državljani zgolj drugorazredna tema in nismo vredni, da bi prejeli konkretne informacije. Si pa lahko razlagam/o zakaj. Ker, ko bi izvedeli oz. dobili pojasnila, bi videli in dojeli, da slaba banka ne bo popolnoma nič pomagala pri rešitvi slabega gospodarskega položaja Slovenije, bi videli in dojeli, da slaba banka ne bo popolnoma nič pomagala pri zmanjšanju števila brezposelnih.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Se motim? Mogoče, ampak na vse to kar se dogaja v zadnjem letu se verjetno ne. Če se, bom vesel a to bom vedel le takrat, ko bom dobil odgovor na zgornje vprašanje.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;In ob zaključku. Zakaj torej slaba banka? Reševala bo zgolj banke katere so kot kaže nesposobne izterjati zapadle kredite, kateri so bili podeljeni, kot kaže na podlagi vez, poznanstev in vpliva.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Ne pozabite, odkupljene slabe terjatve bomo plačevali vsi mi in naši potomci! Tisti, ki so se z temi krediti okoristili pa se nam smejejo v obraz!&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Vrhtrebnje - Fotka</title>
+   <link href="http://danijelocepek.name/fotke/2013/04/28/"/>
+   <updated>2013-04-28T00:00:00+02:00</updated>
+   <id>http://danijelocepek.name/fotke/2013/04/</id>
+   <content type="html">&lt;img src=&quot;/tumblr_files/tumblr_mlyjxfiEoD1s9lu3ro1_1280.png&quot;/&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Občina Trebnje čez nekaj let! Kje bomo in kaj bomo?</title>
+   <link href="http://danijelocepek.name/politika/cajtng/2013/04/27/obina-trebnje-ez-nekaj-let-kje-bomo-in-kaj-bomo"/>
+   <updated>2013-04-27T00:00:00+02:00</updated>
+   <id>http://danijelocepek.name/politika/cajtng/2013/04/27/obina-trebnje-ez-nekaj-let-kje-bomo-in-kaj-bomo</id>
+   <content type="html">&lt;p&gt;&lt;span&gt;Podatek, ki sem ga izvedel, ki me je malček šokiral in me glede na trenutno stanje v naši občini resnično skrbi.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;V občini Trebnje je bilo v letnem povprečju 240 novorojenčkov od leta 2008 do 2012, kar pomeni skupno 1250 novorojenčkov. Kot kaže po prvem četrtletju, bo tudi letos število novorojenčkov okoli povprečja.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Z vsem spoštovanjem do župana, podžupanov in občinskih svetnikov, vendar ceste do zidanic in legaliziranje le-teh ter javna razsvetljava v vsak kotiček naše občine enostavno ne more biti več glavna prioriteta občine Trebnje.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Glede na zgoraj omenjeni podatek je potrebno tudi ali predvsem razmišljati in delati na tem, da imamo zadostno infrastrukturo za varstvo, izobrazbo, ko bodo prišli v osnovno šolo, da imamo zadostno infrastrukturo za te otroke, za preživaljnje njihovega prostega časa (športni, kulturni, prostočasni objekti)?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;!-- more --&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Nenazadnje, ali imamo potrebno infrastrukturo za njihovo nadaljnje šolanje? O srednji šoli poslušamo kandidate govoričiti in beremo v njihovih &amp;#8220;programih&amp;#8221; čisto vsake volitve že od leta 1991, pa ni niti lokacija določena, kaj šele postavljen “temeljni kamen”.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Ali imamo za te, sedaj otroke, čez 15 - 20 let zagotovljena delovna mesta, da bodo želeli ostali v domačem kraju, razvijati svoj potencial in s tem prispevaki k dodatnemu razvoju lokalne skupnosti?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Ali je občina Trebnje res takšna, ki bo na te otroke in njihov razvoj pozitivno vplivala? Glede na dosedanje stanje in obnašanje odgovornih se bojim, da ne.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Resnično me skrbi, ko se govori o novih razvojnih projektih, ki vključujejo popotovanja po tujih deželah z namenom promocije občine, resnično me skrbi, ko se govori o izvedbi projekov, ki bi morali delovati že nekaj let. Skrbi me namreč zato, ker enostavno ne vidim nič obetavnega za občino Trebnje čez 5 let, kaj šele kaj dlje. In to od ljudi, ki bi morali že od najkasneje leta 2009 razmišljati in delovati o zgoraj napisanem.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Žal kot kaže, bo in je samo na nas, ali se bo v občini Trebnje kaj spremenilo ali pa bo ostala še naprej le dolga blatna vas (spalna občina), v kateri odraščajoči mladostniki ne vidijo in ne bodo videli perspektive in razloga, da ostanejo ter v domačem kraju razvijajo svoj potencial.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;V zadnjih nekaj letih vidim občino kot takšno propadati in namesto da bi napredovala, nazaduje. Za to ni kriva samo ena oseba, za to ni kriva peščica oseb, za to smo krivi vsi mi, ker kljub vsemu ne pogledamo izza svoje ograjice, se ne zganemo in skupaj naredimo občino Trebnje takšno, kot si jo vsi želimo!&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Morda si mislite, ko ste prebrali te vrstice “ah morda je to res, samo jaz nimam otrok, moji so že odrasli”. Vprašam vas - ali je vam vseeno v kakšni občini živite? Ali ne boste imeli nobenih otrok? Kaj pa vaši bratje, sestre, znanci, prijatelji? Kaj pa vaši vnučki?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Kot sem napisal zgoraj; posamezniki lahko »vpijemo«, negodujemo, se pritožujemo, vendar spremenili ne bomo ničesar kot posamezniki. Od vseh nas je odvisno, ali bomo še naprej gledali našo občino propadati zaradi pomanjkanja interesov, interesov »v moj varžet« in pomanjkanja vizije, ali pa bomo skupaj spreminjali v naslednjih letih občino na bolje, da bodo v njej mladi imeli možnost, željo in priložnost za razvoj njihovega potenciala.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Infographic: 5 Tips for a More Successful Call to Action | SingleHop</title>
+   <link href="http://danijelocepek.name/uporabno/2013/04/18/infographic-5-tips-for-a-more-successful-call-to-action--singlehop"/>
+   <updated>2013-04-18T00:00:00+02:00</updated>
+   <id>http://danijelocepek.name/uporabno/2013/04/18/infographic-5-tips-for-a-more-successful-call-to-action--singlehop</id>
+   <content type="html">&lt;a href=&quot;http://www.singlehop.com/blog/infographic-5-tips-for-a-more-successful-call-to-action/&quot;&gt;  Infographic: 5 Tips for a More Successful Call to Action | SingleHop&lt;/a&gt;&lt;br/&gt;&lt;p&gt;Pet uporabnih nasvetov kako izboljšati na spletni strani poziv k akciji (call to action). Uporabo predvsem za prodajne strani ;)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>MacHeist: Bundle</title>
+   <link href="http://danijelocepek.name/programi/2013/04/17/macheist-bundle"/>
+   <updated>2013-04-17T00:00:00+02:00</updated>
+   <id>http://danijelocepek.name/programi/2013/04/17/macheist-bundle</id>
+   <content type="html">&lt;a href=&quot;http://www.macheist.com&quot;&gt;MacHeist: Bundle&lt;/a&gt;&lt;br/&gt;&lt;p&gt;Vredno nakupa! Za 9.99$ (7.99€) = xScope, iStopMotion, Totals, Clarify, Fantastical, CleanMyMac 2, Little Inferno, Path Finder&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>No malo boljse bi pa res lahko naredili mobile sjat. Kancek programerske kreativnosti ne bi škodil. Pa procenti tudi niso out ;)</title>
+   <link href="http://danijelocepek.name/programiranje/2013/04/15/no-malo-boljse-bi-pa-res-lahko-naredili-mobile-sjat-kancek-programerske-kreativnosti-ne-bi-kodil-pa-procenti-tudi-niso-out-"/>
+   <updated>2013-04-15T00:00:00+02:00</updated>
+   <id>http://danijelocepek.name/programiranje/2013/04/15/no-malo-boljse-bi-pa-res-lahko-naredili-mobile-sjat-kancek-programerske-kreativnosti-ne-bi-kodil-pa-procenti-tudi-niso-out-</id>
+   <content type="html">&lt;img src=&quot;/tumblr_files/tumblr_mlbda7vUff1s9lu3ro1_1280.png&quot;/&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pomlad je koncno prisla. Dolgo smo jo cakal.</title>
+   <link href="http://danijelocepek.name/fotke/2013/04/14/pomlad-je-koncno-prisla-dolgo-smo-jo-cakal"/>
+   <updated>2013-04-14T00:00:00+02:00</updated>
+   <id>http://danijelocepek.name/fotke/2013/04/14/pomlad-je-koncno-prisla-dolgo-smo-jo-cakal</id>
+   <content type="html">&lt;img src=&quot;/tumblr_files/tumblr_ml8l2wBMfa1s9lu3ro1_1280.jpg&quot;/&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>No končno je tudi Firefox-u uspelo dat v brskalnik inspector ki je uporaben.</title>
+   <link href="http://danijelocepek.name/programi/programiranje/2013/04/14/no-konno-je-tudi-firefox-u-uspelo-dat-v-brskalnik-inspector-ki-je-uporaben"/>
+   <updated>2013-04-14T00:00:00+02:00</updated>
+   <id>http://danijelocepek.name/programi/programiranje/2013/04/14/no-konno-je-tudi-firefox-u-uspelo-dat-v-brskalnik-inspector-ki-je-uporaben</id>
+   <content type="html">&lt;blockquote&gt;No končno je tudi Firefox-u uspelo dat v brskalnik inspector ki je uporaben.&lt;/blockquote&gt;&amp;#8212;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Če sem se že spravil ven v taksnem “lepem, soncnem” vremenu kakršen je danes pa se spodobi da še malo pofotkam :)</title>
+   <link href="http://danijelocepek.name/fotke/2013/04/01/e-sem-se-e-spravil-ven-v-taksnem-lepem-soncnem-vremenu-kakren-je-danes-pa-se-spodobi-da-e-malo-pofotkam-"/>
+   <updated>2013-04-01T00:00:00+02:00</updated>
+   <id>http://danijelocepek.name/fotke/2013/04/01/e-sem-se-e-spravil-ven-v-taksnem-lepem-soncnem-vremenu-kakren-je-danes-pa-se-spodobi-da-e-malo-pofotkam-</id>
+   <content type="html">&lt;img src=&quot;/tumblr_files/tumblr_mkkz6rZsmz1s9lu3ro1_1280.jpg&quot;/&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>SublimeText</title>
+   <link href="http://danijelocepek.name/programiranje/2013/03/31/"/>
+   <updated>2013-03-31T00:00:00+01:00</updated>
+   <id>http://danijelocepek.name/programiranje/2013/03/</id>
+   <content type="html">&lt;iframe src=&quot;http://player.vimeo.com/video/63037871&quot; width=&quot;700&quot; height=&quot;400&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;br/&gt;&lt;p&gt;Sej vem… vikend, praznik ampak vseeno, moram :) Tipkal počasi ampak mislim, da je bistvo razumljivo :) Se da tudi pri programiranju prihranit nekaj časa ;)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>
