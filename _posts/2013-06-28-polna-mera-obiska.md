@@ -9,7 +9,7 @@ tags: [obisk, zahtevki, spletna stran, spletno gostovanje]
 
 Ste že kdaj videli kako izgleda ko imaš na sekundo nekaj sto ali tisoč zahtevkov za ogled spletne strani? No tukaj je en lep prikaz ;)
 
-{% vimeo 69317575 %}
+<iframe src="http://player.vimeo.com/video/69317575" frameborder="0" width="700" height="394">        </iframe>
 
 *epp: seveda za [strežnik na katerem spletne stran gostuje][1] ni težav z obdelavo vseh zahtevkov ;)*
 
