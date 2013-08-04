@@ -4,8 +4,9 @@ http://danijelocepek.name/archive.html
 http://danijelocepek.name/atom.xml
 http://danijelocepek.name/categories.html
 http://danijelocepek.name/index.html
-http://danijelocepek.name/new-page.html
+http://danijelocepek.name/markdown-cheatsheet.html
 http://danijelocepek.name/pages.html
+http://danijelocepek.name/rezultati/index.html
 http://danijelocepek.name/rss.xml
 http://danijelocepek.name/sitemap.txt
 http://danijelocepek.name/stari--index.html
@@ -16,7 +17,18 @@ http://danijelocepek.name/page4/index.html
 http://danijelocepek.name/page5/index.html
 http://danijelocepek.name/page6/index.html
 http://danijelocepek.name/page7/index.html
+http://danijelocepek.name/page8/index.html
+http://danijelocepek.name/page2/index.html
+http://danijelocepek.name/page3/index.html
+http://danijelocepek.name/page4/index.html
+http://danijelocepek.name/page5/index.html
+http://danijelocepek.name/page6/index.html
+http://danijelocepek.name/page7/index.html
+http://danijelocepek.name/page8/index.html
 
+http://danijelocepek.name/trebnje/2013/08/04/unikumi-trebanjske-obcine
+http://danijelocepek.name/programiranje/2013/07/02/markdown-urejevalnik-besedila
+http://danijelocepek.name/politika/cajtng/2013/07/01/politicna-stranka-je-biznis
 http://danijelocepek.name/splet/2013/06/28/polna-mera-obiska
 http://danijelocepek.name/kartko/2013/06/27/pa-imam-novega-
 http://danijelocepek.name/kartko/2013/06/15/me-prav-zanima-koliko-ivcev-asa-in--sem-za-isto-brez-veze-zabil-zaradi-pikotkov-me-prav-zanima-nmusar-komu-izstavimo-raun-niti-spletne-strani-uradnih-oseb-ne-spotujejo-vseh-oz-vsaj-tistih-pomembnih-usm

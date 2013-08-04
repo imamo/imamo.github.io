@@ -1,6 +1,7 @@
 ---
 layout: nil
 title : RSS Feed
+group: uporabno
 ---
 
 <?xml version="1.0" encoding="UTF-8" ?>
@@ -14,7 +15,7 @@ title : RSS Feed
         <pubDate>{{ site.time | date_to_xmlschema }}</pubDate>
         <ttl>1800</ttl>
 
-{% for post in site.posts %}
+{% for post in site.posts limit:5 %}
         <item>
                 <title>{{ post.title }}</title>
                 <description>{{ post.content | xml_escape }}</description>

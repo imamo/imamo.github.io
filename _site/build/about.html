@@ -13,7 +13,8 @@
     <meta property="og:description" content="Nekaj malega o meni..."/>
     <meta property="og:url" content="http://danijelocepek.name/about.html/"/>
     <meta property="og:type" content="blog"/>
-    <meta property="og:image" content="http://danijelocepek.name/slike/jst.png" />
+     <meta property="og:image" content="http://danijelocepek.name/slike/jst.png" /> 
+
     <meta property="fb:admins" content="616113753"/>
     <meta property="fb:app_id" content="159336160780750"/>
     <!-- facebook end-->
@@ -56,7 +57,7 @@
   
      
     	<li><a href="/categories.html#programiranje-ref">
-    		programiranje <span>4</span>
+    		programiranje <span>5</span>
     	</a></li>
      
     	<li><a href="/categories.html#fotke-ref">
@@ -72,11 +73,11 @@
     	</a></li>
      
     	<li><a href="/categories.html#politika-ref">
-    		politika <span>4</span>
+    		politika <span>5</span>
     	</a></li>
      
     	<li><a href="/categories.html#cajtng-ref">
-    		cajtng <span>2</span>
+    		cajtng <span>3</span>
     	</a></li>
      
     	<li><a href="/categories.html#video-ref">
@@ -94,19 +95,156 @@
     	<li><a href="/categories.html#splet-ref">
     		splet <span>1</span>
     	</a></li>
+     
+    	<li><a href="/categories.html#trebnje-ref">
+    		trebnje <span>1</span>
+    	</a></li>
     
   
 
 
                 </ul>
             </li>
+            <li><a href="/archive.html">Arhiv</a></li>
             <li><a href="/tags.html">Značke</a></li>
-            <li><a href="/archive.html">Blog arhiv</a></li>
-            <li><a href="/pages.html">Strani</a></li>
+            
+            <li><a href="/pages.html" class="dropdown-toggle" data-toggle="dropdown">Uporabno</a>
+                <ul class="dropdown-menu" role="menu"> 
+                  
+                  
+                  
+
+
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/atom.xml">Atom Feed</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/markdown-cheatsheet.html">Markdown Cheatsheet</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/pages.html">Strani</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/rss.xml">RSS Feed</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+
+
+
+                </ul>
+            </li>
             <li><a href="/about.html">Who?</a></li>
           </ul>
           <!-- Google search -->
-          <div id='cse'>Loading</div>
+          <div id='cse-search-form'>Loading</div>
           <script src='//www.google.com/jsapi' type='text/javascript'></script>
           <script type='text/javascript'>
           google.load('search', '1', {language: 'sl', style: google.loader.themes.V2_DEFAULT});
@@ -116,14 +254,15 @@
             orderByOptions['keys'] = [{label: 'Relevance', key: ''} , {label: 'Date', key: 'date'}];
             customSearchOptions['enableOrderBy'] = true;
             customSearchOptions['orderByOptions'] = orderByOptions;
-            customSearchOptions['overlayResults'] = true;
             var customSearchControl =   new google.search.CustomSearchControl('018091271476138516665:phgafg07wee', customSearchOptions);
             customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
             var options = new google.search.DrawOptions();
+            options.enableSearchboxOnly('http://danijelocepek.name/rezultati/', 'q');
             options.setAutoComplete(true);
-            customSearchControl.draw('cse', options);
+            customSearchControl.draw('cse-search-form', options);
           }, true);
           </script>
+            
           <!-- G search end -->
         </div>
       </div>
@@ -138,9 +277,23 @@
 
 <div class="row">
   <div class="span14">
-    <h3 id='zaenkrat_e_ni_za_povedat'>Zaenkrat še nič za povedat&#8230;</h3>
+    <h3 id='kaj_ponem_kaj_razmiljam_in_kje_me_lahko_najde'>Kaj počnem, kaj razmišljam in kje me lahko &#8220;najdeš&#8221;.</h3>
 
-<p><img alt='jst :P' src='http://www.gravatar.com/avatar/40f5992d2157f286c50a567cb8ccc9bc?s=80' /> <em>hmm :)</em></p>
+<p><img alt='jst :P' class='left' src='slike/jst.png' /></p>
+
+<p><a href='http://bitbucket.org/danijelo'>sledi na Bitbucket-u programiranje <em>(mimogrede, najboljši git repository ;))</em></a></p>
+
+<p><a href='http://github.com/imamo'>sledi na Github-u programiranje (opensource)</a></p>
+
+<p><a href='http://facebook.com/danijelo'>postani Facebook prijatelj :)</a></p>
+
+<p><a href='http://twitter.com/danijeloc'>postani Twitter sledilec :)</a></p>
+
+<p><a href='http://si.linkedin.com/pub/danijel-ocepek/8/b9/7a0'>tudi na LinkedIN-u sem ;)</a></p>
+
+<p><a href='http://www.cajtng.com/search/node/danijel%20ocepek'>kolumna na Cajtng.com</a></p>
+
+<p><em>hmm :)</em></p>
   </div>
 </div>
 

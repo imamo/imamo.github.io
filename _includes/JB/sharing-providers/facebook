@@ -6,6 +6,17 @@
   js.src = "//connect.facebook.net/sl_SI/all.js#xfbml=1&appId=159336160780750";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
+<p>
+<a class="fb-share" href="#" 
+  onclick="
+    window.open(
+      'https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href), 
+      'facebook-share-dialog', 
+      'width=626,height=436'); 
+    return false;">
+  
+</a>
+</p>
 <fb:like href="http://danijelocepek.name{{ page.url }}" send="false" layout="button_count" width="120" show_faces="false" font="tahoma" action="like"></fb:like>
 <!--<br>
 <fb:send href="http://danijelocepek.name{{ page.url }}" font="tahoma"></fb:send>
@@ -13,15 +24,4 @@
 <p style="margin-top:4px;">
 	<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://danijelocepek.name" data-text="{{ page.title }}" data-via="danijeloc" data-hashtags="">Tweet</a>
 	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-</p>
-<p>
-<a class="btn small primary" href="#" 
-  onclick="
-    window.open(
-      'https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href), 
-      'facebook-share-dialog', 
-      'width=626,height=436'); 
-    return false;">
-  Delji na FB
-</a>
 </p>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+        <title>Vsega po malem o vsem</title>
+        <description>Vsega po malem o vsem - Danijel</description>
+        <link>http://danijelocepek.name</link>
+        <link>http://danijelocepek.name</link>
+        <lastBuildDate>2013-08-04T00:50:46+02:00</lastBuildDate>
+        <pubDate>2013-08-04T00:50:46+02:00</pubDate>
+        <ttl>1800</ttl>
+
+
+        <item>
+                <title>Unikumi Trebanjske občine</title>
+                <description>&lt;p&gt;&lt;em&gt;Prepis FB statusa, ki sem ga zapisal 30.07.2013 (kar je napisano drži in ni bili nič drugače)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Unikumi (no verjetno ne samo naše) Trebanjske občinske uprave:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;za 2 obsodbo zlorabe položaja (beri kot si nekdo to predstavlja kot uspešnost) si povečaš plačo za skoraj 10.000 € / 6 mesecev&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;vodovodna napeljava po celi občini crkuje pri nas pa zmanjšajo sredstva za investicije v vodovodno omrežja&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;&amp;#8220;ne znajo&amp;#8221; na začetku leta izračunati koliko se bo izplačalo regresa zaposlenim zato postavko za regres sredi leta povečaš za več kot 100%&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;iz sklada za odpravo posledic naravnih nesreč želiš izplačati pomoč krajanu ki mu je delno zgorel skedenj po gurs-u (beri hiša v realnosti) iz poročila pa ni moč izvedeti ali je prišlo do požara zaradi udarca strele ali zaradi česa drugega&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;že nekaj let vzpostavljaš e-občino in vlagaš v promocijo a rezultata izgradnje in promocije ni nikjer&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;krajanom, ki so se prostovoljno odločili da bodo ustanovili svoje naselje prostovoljno kljub velikemu minusu v občinski blagajni ponudiš kritje stroškov zamenjave hišnih številki in zamenjave osebnih izkaznic brez kakršne koli konkretne utemeljitve za takšno dejanje.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;za nakup računalniške opreme že zadnjih nekaj let namenjaš cca 30.000€ (mimogrede občinska uprava šteje 29 ljudi)&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;vzameš za dodatnih 800.000 eur kredita na nekaj mio € minusa ampak ni nikjer nič za pokazat, kaj se je z tem in ostalim denarjem, ki naj bi ga imel v blagajni, naredilo.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;v rebalansu povečuješ zadolženost občine tudi na račun povečanja izplačil medijem za oglaševanje in za druge operativne odhodke&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;&amp;#8230;. in še bi se dalo naštevati&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;No in tako bo dokler bo še kaj € v že tako presuhi Trebanjski blagajni ker občanov kot kaže popolnoma nič ne zanima kaj se dela z dobesedno NJIHOVIM denarjem! Ko pa se bo kar naenkrat podražila komunala in ostale javne storitve, ki se financirajo iz občinskega proračuna bo pa &amp;#8220;ogenj v strehi&amp;#8221;. Takšno nevestno neodgovorno in negospodarno delo bomo seveda plačevali še dolgo vsi, ki bomo živeli v občini Trebnje predvsem na račun kvalitete življenja v tej občini. Čas bo za spremembe! Sprašujem vas Trebanjke in Trebanjci, ali si res zaslužimo in želimo takšno občinsko upravo in občinski svet, ki takšne stvari potrjuje?&lt;/p&gt;
+
+&lt;p&gt;Ustavit se tega žal kot kaže v tem sestavu občinskega sveta ne da. Razlog? Glej video:&lt;/p&gt;</description>
+                <link>http://danijelocepek.name/trebnje/2013/08/04/unikumi-trebanjske-obcine</link>
+                <guid>http://danijelocepek.name/trebnje/2013/08/04/unikumi-trebanjske-obcine</guid>
+                <pubDate>2013-08-04T00:00:00+02:00</pubDate>
+        </item>
+
+        <item>
+                <title>Markdown urejevalnik besedila</title>
+                <description>&lt;h3 id='markdown_zgodovina_in_'&gt;Markdown zgodovina in …&lt;/h3&gt;
+
+&lt;p&gt;Napisal bom zgolj nekaj na hitro in na kratko za osnovo kaj je Markdown. V ang. si lahko preberete tudi &lt;a href='http://en.wikipedia.org/wiki/Markdown'&gt;tukaj (Wikipedia)&lt;/a&gt; na hitro povzetek pa spodaj.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;John Gruber&lt;/strong&gt; glavni programer pravi.&amp;#8221;Markdown je orodje za pretvorbo iz tekst-v-HTML ki je namenjen piscem za splet.&amp;#8221;Kot rečeno &amp;#8220;oče&amp;#8221; Markdown-a je &lt;strong&gt;John Gruber&lt;/strong&gt; pri nastanku pa mu je veliko pomagal tudi &lt;strong&gt;Aaron-a Swartz&lt;/strong&gt;. Markdown uporabniku omogoča, da na preprost tekstoven način piše in oblikuje besedilo za splet oz. spletne strani brez poznavanja HTML-ja. Piše se preprosto v beleženici ali v za to namenjenem programu &lt;em&gt;(nekaj povezav je spodaj)&lt;/em&gt;. Torej na kratko Markdown je namenjen za ustvarjanje vsebine in ne za programiranje.&lt;/p&gt;
+
+&lt;h3 id='zakaj_piem_o_markdown'&gt;Zakaj pišem o Markdown?&lt;/h3&gt;
+
+&lt;p&gt;Tudi jaz ga uporabljam za kreiranje vsebine oz. besedila na tem blogu. Ko se ga navadiš oz. naučiš tiste osnovne zahteve (odebeljeno, poševno, povezava, slika ipd…) je zadeva resnično hitra in preprosta. Brez kompliciranja z HTML-jem kot naprimer&lt;code&gt;&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;&lt;/code&gt; oznak za odebeljeno besedilo ali &lt;code&gt;&amp;lt;em&amp;gt;&amp;lt;/em&amp;gt;&lt;/code&gt; za poštevno besedilo ipd… kako zelo preprosto je si lahko ogledate na &lt;a href='/markdown-cheatsheet.html'&gt;Markdown cheatsheet-u&lt;/a&gt; katerega sem si pripravil oz. si ga pripravljam, da hitreje pridem do določenih oznak katere morda sedaj na začetku še pozabim.&lt;/p&gt;
+
+&lt;h4 id='s_im_pa_lahko_to_piem_oz_kje'&gt;S čim pa lahko to pišem oz. kje&lt;/h4&gt;
+
+&lt;p&gt;Dovolj je že beležnica ali kakšnem podoben preprost program za pisanje besedila. Ne potrebujete nobenih posebnih programov za programiranje HTML strani ali kaj podobnega in ravno to je čar Markdown urejevalnika besedila.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Res pa je da je potem potreben na strani spletne strani oz. skripte spletne strani, pretvornik, ki pretvori markdown obliko v HTML obliko, ki je potem vidna obiskovalcem.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Torej pišete lahko v beležnici ali da vam je malo v pomoč s kakšnim programom za pisanje v Markdown načinu ter tudi izvoz napisanega v npr pdf, html ipd. Takšni urejevalniki so npr.:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href='http://mouapp.com/'&gt;Mou&lt;/a&gt; - brezplačen program in verjetno najboljši za Mac OSx&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://alternativeto.net/software/mou/?platform=windows'&gt;Nekaj podobnega kot Mou&lt;/a&gt; - za Widnows-e&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://sourceforge.net/p/retext/home/ReText/'&gt;ReText&lt;/a&gt; - za Linux-e&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In verjetno je še kar &lt;a href='https://www.google.si/search?q=markdown+editor'&gt;nekaj programov&lt;/a&gt;, ker je Markdown čedalje bolj priljubljen urejevalnik besedila.&lt;/p&gt;
+
+&lt;h3 id='kdo_pa_sploh_markdown_uporablja'&gt;Kdo pa sploh Markdown uporablja?&lt;/h3&gt;
+
+&lt;p&gt;Khmm, ja jaz na tem blogu, kaj ni dovolj :) Hecam!&lt;/p&gt;
+
+&lt;p&gt;Uporabljajo ga npr. Github, reedit, Stack Overflow in SourceForge pri komunikaciji med uporabniki na svojih servisih.&lt;/p&gt;
+
+&lt;h3 id='kako_pa_to_potem_izgleda'&gt;Kako pa to potem izgleda?&lt;/h3&gt;
+
+&lt;p&gt;Na sliki spodaj je prikaz kako izgleda zgoraj napisano besedilo v Mou editorju.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt='izgled markdown besedila v Mou urejevalniku' src='/slike/prispevek-markdown.jpg' /&gt;&lt;/p&gt;</description>
+                <link>http://danijelocepek.name/programiranje/2013/07/02/markdown-urejevalnik-besedila</link>
+                <guid>http://danijelocepek.name/programiranje/2013/07/02/markdown-urejevalnik-besedila</guid>
+                <pubDate>2013-07-02T00:00:00+02:00</pubDate>
+        </item>
+
+        <item>
+                <title>Biti politik in politična stranka je dober biznis!</title>
+                <description>&lt;p&gt;Kaj bi vi naredili v občini Trebnje z cca. 145.000,00€ na leto?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;obnova cest?&lt;/li&gt;
+
+&lt;li&gt;obnova vodovoda?&lt;/li&gt;
+
+&lt;li&gt;vlaganje v pridobivanje novega uporabnega znanja naših otrok?&lt;/li&gt;
+
+&lt;li&gt;mladinski center in razvoj mladinske dejavnosti?&lt;/li&gt;
+
+&lt;li&gt;obnovitev bazena?&lt;/li&gt;
+
+&lt;li&gt;kinodvorana?&lt;/li&gt;
+
+&lt;li&gt;nogometno igrišče?&lt;/li&gt;
+
+&lt;li&gt;vlaganje v razvoj gospodarstva in nova delovana mesta?&lt;/li&gt;
+
+&lt;li&gt;vlaganje v infrastrukturo za energetsko samozadostnost?&lt;/li&gt;
+
+&lt;li&gt;vlaganje v osveščanje in pridelavo za prehrambeno samozadostnost?&lt;/li&gt;
+
+&lt;li&gt;&lt;em&gt;in še bi lahko našteval, a me zanimajo tudi vaši predlogi!&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img alt='Politika je biznis' class='left' src='/slike/politik-biznis.jpg' /&gt;Naj vam razložim bolj podrobno za boljšo predstavo, da si boste lahko sami ustvarili mnenje, ali je prav ali ni, presodite sami. Ravno tako razmišljanje, kaj vse bi lahko z temi sredstvi koristnega naredili za okolico, družbo in občino, bom prepustil vam in vaši domišljiji.&lt;/p&gt;
+
+&lt;p&gt;V občini Trebnje je predvideno v proračunu, za leto 2013, &lt;strong&gt;14.163.966,04€&lt;/strong&gt; prihodkov &lt;em&gt;(ali so prihodki realno predvideni to ne bom komentiral)&lt;/em&gt;. Od tega je namenjenega &lt;strong&gt;svetnikom 50.000 za njihove sejnine OS ter 40.000 za financiranje političnih strank&lt;/strong&gt;. O drugih predvidenih nesmiselnih predvsem pa nerazumljivih izdatkih morda kdaj drugič. Posvetil se bom zgolj in samo &lt;strong&gt;90.000€&lt;/strong&gt; oz. vsem prejemkom katere prejmejo politične stranke in njihovi ter od občanov izvoljeni predstavniki iz občinskega proračuna.&lt;/p&gt;
+
+&lt;p&gt;Če tako na hitro preračunam po podatkih, ki jih imam, občinski svetnik/ca na leto za občasno sedenje na seji OS, dvigovanje roke, nekateri celo brez spregovorjene ene samcate besede, prejme &lt;strong&gt;2.380,95€&lt;/strong&gt; &lt;em&gt;(cca. 200€ na sejo, četudi je samo 5min prisoten)&lt;/em&gt;. Upravičeno in zasluženo? V ta znesek niso vštete sejnine na odborih OS ter tudi ne vse ostale sejnine v nadzornih odborih javnih podjetji in zavodov katerih je občina so/ustanovljiteljica &lt;em&gt;(npr. Komunala, CIK, …)&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;A vendar, tudi o teh dodatnih sejninah je podatek iz Dolenjskega lista zgovoren &lt;em&gt;(sicer malo dvomim, po hitrem pregledu dostopnih podatkov, da so prejeli in navedli pravilne podatke)&lt;/em&gt;, neimenovan trebanjski svetnik je prejel dodatno kar za &lt;strong&gt;3.614,14€&lt;/strong&gt; iz sejnin odborov OS. A tudi v ta znesek še vedno niso vštete sejnine organov javnih podjetji in zavodov v katerih kot predstavniki ustanovitelja delujejo nekateri svetniki.&lt;/p&gt;
+
+&lt;p&gt;Iz tega lahko sklepam in predvidevam, da svetnik &amp;#8220;tisti bolj aktiven&amp;#8221; na leto iz občinskega proračuna posredno in neposredno za vse sejnine (nadzorni odbori javnih zavodov in podjetji, odbori OS in seje OS) prejme pavšalno izračunano med &lt;strong&gt;4.000€ in 5.000€&lt;/strong&gt;. Kar pa ni več tako malo kot se morda na začetku zdi, kajne? Sploh pa ni malo ko to pomnožimo z 21 &lt;em&gt;(cca. 105.000€)&lt;/em&gt; kolikor je svetnikov.&lt;/p&gt;
+
+&lt;p&gt;Politična stranka oz. svetniška skupina pa prejme iz proračuna &lt;strong&gt;4.444,44€&lt;/strong&gt;. Sicer je ta znesek prepračunan zgolj povprečno, ker že hiter pogled na podatke pokaže da je največji letni izkupiček med &lt;strong&gt;9.413,75€&lt;/strong&gt; in &lt;strong&gt;2.259,00€&lt;/strong&gt; na politično stranko oz. svetniško skupino.&lt;/p&gt;
+
+&lt;p&gt;Če so že zneski, ki jih prejmejo svetniki za sejnine nesprejemljivi (vsaj zame), ker bi se z tem denarjem dalo kaj bolj koristnega narediti, na tem delu, plačila političnim strankam, seveda odpove vsaka zdrava kmečka pamet. Ne bi imel pripomb, če bi se z tem zneskom kakorkoli pomagalo ali da bi se ga vlagalo v lokalni razvoj in občane. V večini primerov pa žal vidimo, da gre ta denar vse prej kam drugam samo nazaj v lokalno skupnost ne. Še več namesto malo bolj racionalne potrošnje in zapravljanja občine se jemljejo krediti med drugim kot kaže tudi za to, da se lahko povečujejo sejnine in prispevki političnim strankam.&lt;/p&gt;
+
+&lt;p&gt;Ne rečem, so svetle izjeme med svetniki in strankami katere ne bom izpostavljal kot tudi tistih drugih ne. Verjamem, da sami dovolj spremljate dogajanje v lokalnem okolju, da lahko ocenite katera politična stranka in svetniki delujejo in vlagajo v našo lokalno skupnost in katere so tiste politične stranke in svetniki, ki &amp;#8220;delajo&amp;#8221; samo na vsake štiri leta po 1 mesec &lt;em&gt;(pred volitvami)&lt;/em&gt;, v vmesnem času pa jim je pomembno zgolj to koliko sredstev bodo prejeli iz občinskega proračuna.&lt;/p&gt;
+
+&lt;p&gt;Na vseh nas pa je kako se bomo odločili naslednje volitve. Ali bomo izvolili politike, ki se resnično trudijo za našo lokalno skupnost, politike z resnimi in realnimi cilji ter zavezo delovati za dobro lokalne skupnosti ali bomo izvolili politike in stranke, ki se gredo biznis, glasove pa kupujejo z &amp;#8220;cirkusom&amp;#8221;, kemičniki, majicami in odojki vse ostalo pa so prazne, po volitvah hitro pozabljene, puhlice.&lt;/p&gt;
+
+&lt;p&gt;Torej da ponovim vprašanje. Kaj bi pa vi postorili v občini Trebnje z cca. 145.000,00€ na leto?&lt;/p&gt;</description>
+                <link>http://danijelocepek.name/politika/cajtng/2013/07/01/politicna-stranka-je-biznis</link>
+                <guid>http://danijelocepek.name/politika/cajtng/2013/07/01/politicna-stranka-je-biznis</guid>
+                <pubDate>2013-07-01T00:00:00+02:00</pubDate>
+        </item>
+
+        <item>
+                <title>Polna mera obiska spletne strani</title>
+                <description>&lt;p&gt;Ste že kdaj videli kako izgleda ko imaš na sekundo nekaj sto ali tisoč zahtevkov za ogled spletne strani? No tukaj je en lep prikaz ;)&lt;/p&gt;
+&lt;iframe frameborder='0' height='394' src='http://player.vimeo.com/video/69317575' width='700'&gt;        &lt;/iframe&gt;
+&lt;p&gt;&lt;em&gt;epp: seveda za &lt;a href='http://www.spletnaabeceda.si'&gt;strežnik na katerem spletna stran gostuje&lt;/a&gt; ni težav z obdelavo vseh zahtevkov ;)&lt;/em&gt;&lt;/p&gt;</description>
+                <link>http://danijelocepek.name/splet/2013/06/28/polna-mera-obiska</link>
+                <guid>http://danijelocepek.name/splet/2013/06/28/polna-mera-obiska</guid>
+                <pubDate>2013-06-28T00:00:00+02:00</pubDate>
+        </item>
+
+        <item>
+                <title>Pa imam novega :)</title>
+                <description>&lt;p&gt;Blog namreč :). Malce prenovljen preprostejši in predvsem hitrejši način :) Pri gradnji pomaga v osnovi &lt;a href='http://jekyllrb.com'&gt;Jekyll&lt;/a&gt; za malček lažje in hitrejše kreiranje contenta ter izgled mi pomaga &lt;a href='http://jekyllbootstrap.com/'&gt;Jekyll Bootstrap&lt;/a&gt;, content pa pišem v &lt;a href='http://daringfireball.net/projects/markdown/'&gt;Markdown editorju&lt;/a&gt; preprosto v &amp;#8220;beležnici&amp;#8221; kar vse skupaj pomeni super hitro :) Kot sprememba pa sem dodal &lt;a href='http://www.facebook.com'&gt;Facebook&lt;/a&gt; komentiranje, da vidim če bo zaradi tega kaj več odziva na poste :P&lt;/p&gt;
+
+&lt;p&gt;Ni seveda še vse dodelano bo pa kmalu oz. postopoma. Tako to je to zaenkrat. Preneseni so tudi vsi stari prispevki iz &lt;a href='http://tumblr.com'&gt;Tumblr&lt;/a&gt;-ja seveda s pomočjo Jekyll importerja tako da do novih prispevkov lahko osvežite spomin in v razmislek s kakšnim starejšim ;)&lt;/p&gt;
+
+&lt;p&gt;Kaj več o samem objavljanju pa bom tudi še pisal, kako in na kakšen način in zakaj je to tko ql. Res pa je da drži kot so zapisali na enem od Jekyll framework-u &lt;a href='http://octopress.org'&gt;Octopress&lt;/a&gt; &lt;em&gt;(žal ga ne morem uporabljat ker ima/m težave s šumniki katere mi še ni uspelo odkriti zakaj)&lt;/em&gt; -&amp;gt; &lt;strong&gt;A blogging framework for hackers.&lt;/strong&gt; ;)&lt;/p&gt;</description>
+                <link>http://danijelocepek.name/kartko/2013/06/27/pa-imam-novega-</link>
+                <guid>http://danijelocepek.name/kartko/2013/06/27/pa-imam-novega-</guid>
+                <pubDate>2013-06-27T00:00:00+02:00</pubDate>
+        </item>
+
+
+</channel>
+</rss>

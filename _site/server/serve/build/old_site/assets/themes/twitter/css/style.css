@@ -1,0 +1,192 @@
+@import url(http://fonts.googleapis.com/css?family=Ubuntu:400,500&subset=latin,latin-ext);
+/* Override some defaults */
+html, body {
+  background-color: #eee;
+}
+body {
+  padding-top: 40px; /* 40px to make the container go all the way to the bottom of the topbar */
+  font-family: 'Ubuntu', sans-serif;
+}
+.container > footer p {
+  text-align: center; /* center align it with the container */
+}
+.container {
+  width: 820px; /* downsize our container to make the content feel a bit tighter and more cohesive. NOTE: this removes two full columns from the grid, meaning you only go to 14 columns and not 16. */
+}
+
+/* The white background content wrapper */
+.content {
+  background-color: #fff;
+  padding: 20px;
+  margin: 0 -20px; /* negative indent the amount of the padding to maintain the grid system */
+  -webkit-border-radius: 0 0 6px 6px;
+     -moz-border-radius: 0 0 6px 6px;
+          border-radius: 0 0 6px 6px;
+  -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.15);
+     -moz-box-shadow: 0 1px 2px rgba(0,0,0,.15);
+          box-shadow: 0 1px 2px rgba(0,0,0,.15);
+}
+
+/* Page header tweaks */
+.page-header {
+  background-color: #f5f5f5;
+  padding: 20px 20px 10px;
+  margin: -20px -20px 20px;
+}
+
+.topbar .btn {
+  border: 0;
+}
+
+
+/* tag_box ======================================================== */
+
+.tag_box {
+	list-style:none;
+	margin:0;
+	padding:5px 0 ;
+	overflow:hidden;
+}
+.tag_box li {
+	line-height:28px;
+}
+.tag_box.inline li {
+	float:left;
+}
+.tag_box a {
+	padding: 3px 6px;
+	margin: 2px;
+	background: #eee;
+	color:#005F6B;
+	border-radius: 3px;
+	text-decoration:none;
+	font-size: 10px;
+}
+.tag_box a span{
+	vertical-align:super;
+	font-size:0.8em;
+}
+.tag_box a.active {
+	background:#57A957;
+	border:1px solid #4C964D;
+	color:#FFF;
+}
+
+.index-content{
+	display: block;
+	width: 100%;
+	min-height: 96px;
+	height: auto;
+}
+
+.index-content img{
+	width: 150px;
+	height: 112px;
+	float: left;
+	margin-right: 5px;
+}
+
+/*******GOOGLE SEARCH*********/
+
+div#cse {
+    width: 260px;
+    position: relative;
+    float: right;
+    margin-top: 3px;
+    margin-right: -18px;
+    margin-bottom: 0;
+    margin-left: 0;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    border-top-width: 0;
+    border-top-style: none;
+    border-top-color: -moz-initial;
+    border-right-width: 0;
+    border-right-style: none;
+    border-right-color: -moz-initial;
+    border-bottom-width: 0;
+    border-bottom-style: none;
+    border-bottom-color: -moz-initial;
+    border-left-width: 0;
+    border-left-style: none;
+    border-left-color: -moz-initial;
+}
+
+div.gsc-control-cse.gsc-control-cse-sl {
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    background-color: transparent;
+    background-image: none;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-position: top left;
+    border-top-width: 0px;
+    border-top-style: none;
+    border-top-color: -moz-initial;
+    border-right-width: 0px;
+    border-right-style: none;
+    border-right-color: -moz-initial;
+    border-bottom-width: 0px;
+    border-bottom-style: none;
+    border-bottom-color: -moz-initial;
+    border-left-width: 0px;
+    border-left-style: none;
+    border-left-color: -moz-initial;
+}
+
+#cse table, #cse table th, #cse table td {
+    border-top-width: 0;
+    border-top-style: none;
+    border-top-color: -moz-initial;
+    border-right-width: 0;
+    border-right-style: none;
+    border-right-color: -moz-initial;
+    border-bottom-width: 0;
+    border-bottom-style: none;
+    border-bottom-color: -moz-initial;
+    border-left-width: 0;
+    border-left-style: none;
+    border-left-color: -moz-initial;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+}
+
+form.gsc-search-box {
+    margin-bottom: 0;
+}
+
+.gsc-input-box td {
+    vertical-align: middle;
+    font-size: 11px;
+}
+
+.gsc-search-box-tools .gsc-search-box .gsc-input {
+    font-size: 12px;
+    margin-top:0px;
+    vertical-align:middle;
+    padding: 5px 2px!important;
+}
+
+.gsst_a .gscb_a{
+	margin-top:4px;
+}
+
+input.gsc-search-button{
+	margin-top: 4px!important;
+	padding-top: 7px!important;
+}
+/***********Google search end*********/

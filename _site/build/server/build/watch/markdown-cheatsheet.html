@@ -1,0 +1,385 @@
+
+<!DOCTYPE html>
+<html lang="en" xmlns:fb="http://ogp.me/ns/fb#">
+  <head>
+    <meta charset="utf-8">
+    <title>Markdown Cheatsheet</title>
+    <meta name="description" content="Bljižnice in zaznamki za Markdown urejevalnik besedila">
+    <meta name="author" content="Danijel">
+    
+    <!-- facebook -->
+    <meta property="og:site_name" content="Danijel's Blog"/>
+    <meta property="og:title" content="Markdown Cheatsheet"/>
+    <meta property="og:description" content="Bljižnice in zaznamki za Markdown urejevalnik besedila"/>
+    <meta property="og:url" content="http://danijelocepek.name/markdown-cheatsheet.html/"/>
+    <meta property="og:type" content="blog"/>
+     <meta property="og:image" content="http://danijelocepek.name/slike/jst.png" /> 
+
+    <meta property="fb:admins" content="616113753"/>
+    <meta property="fb:app_id" content="159336160780750"/>
+    <!-- facebook end-->
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Le styles -->
+    <link href="/assets/themes/twitter/css/1.4.0/bootstrap.css" rel="stylesheet">
+    <link href="/assets/themes/twitter/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+
+    <!-- Le fav and touch icons -->
+  <!-- Update these with your own images
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+  -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+    <script src="/assets/themes/twitter/js/bootstrap.min.js"></script>
+      <script>
+        $('.dropdown-toggle').dropdown()
+      </script>
+  </head>
+
+  <body>
+    <div class="topbar">
+      <div class="fill">
+        <div class="container">
+          <a class="brand" href="/">Vsega po malem o vsem</a>
+          <ul class="nav">
+            <li class="dropdown">
+              <a data-target="#" href="/categories.html" class="dropdown-toggle" data-toggle="dropdown">Kategorije</a>
+                <ul class="dropdown-menu" role="menu">
+                  
+                  
+
+
+  
+     
+    	<li><a href="/categories.html#programiranje-ref">
+    		programiranje <span>5</span>
+    	</a></li>
+     
+    	<li><a href="/categories.html#fotke-ref">
+    		fotke <span>5</span>
+    	</a></li>
+     
+    	<li><a href="/categories.html#programi-ref">
+    		programi <span>2</span>
+    	</a></li>
+     
+    	<li><a href="/categories.html#uporabno-ref">
+    		uporabno <span>1</span>
+    	</a></li>
+     
+    	<li><a href="/categories.html#politika-ref">
+    		politika <span>5</span>
+    	</a></li>
+     
+    	<li><a href="/categories.html#cajtng-ref">
+    		cajtng <span>3</span>
+    	</a></li>
+     
+    	<li><a href="/categories.html#video-ref">
+    		video <span>2</span>
+    	</a></li>
+     
+    	<li><a href="/categories.html#linux-ref">
+    		linux <span>3</span>
+    	</a></li>
+     
+    	<li><a href="/categories.html#kartko-ref">
+    		kartko <span>2</span>
+    	</a></li>
+     
+    	<li><a href="/categories.html#splet-ref">
+    		splet <span>1</span>
+    	</a></li>
+     
+    	<li><a href="/categories.html#trebnje-ref">
+    		trebnje <span>1</span>
+    	</a></li>
+    
+  
+
+
+                </ul>
+            </li>
+            <li><a href="/archive.html">Arhiv</a></li>
+            <li><a href="/tags.html">Značke</a></li>
+            
+            <li><a href="/pages.html" class="dropdown-toggle" data-toggle="dropdown">Uporabno</a>
+                <ul class="dropdown-menu" role="menu"> 
+                  
+                  
+                  
+
+
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/atom.xml">Atom Feed</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li class="active"><a href="/markdown-cheatsheet.html" class="active">Markdown Cheatsheet</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/pages.html">Strani</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/rss.xml">RSS Feed</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+
+
+
+                </ul>
+            </li>
+            <li><a href="/about.html">Who?</a></li>
+          </ul>
+          <!-- Google search -->
+          <div id='cse-search-form'>Loading</div>
+          <script src='//www.google.com/jsapi' type='text/javascript'></script>
+          <script type='text/javascript'>
+          google.load('search', '1', {language: 'sl', style: google.loader.themes.V2_DEFAULT});
+          google.setOnLoadCallback(function() {
+            var customSearchOptions = {};
+            var orderByOptions = {};
+            orderByOptions['keys'] = [{label: 'Relevance', key: ''} , {label: 'Date', key: 'date'}];
+            customSearchOptions['enableOrderBy'] = true;
+            customSearchOptions['orderByOptions'] = orderByOptions;
+            var customSearchControl =   new google.search.CustomSearchControl('018091271476138516665:phgafg07wee', customSearchOptions);
+            customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+            var options = new google.search.DrawOptions();
+            options.enableSearchboxOnly('http://danijelocepek.name/rezultati/', 'q');
+            options.setAutoComplete(true);
+            customSearchControl.draw('cse-search-form', options);
+          }, true);
+          </script>
+            
+          <!-- G search end -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="content">
+        
+<div class="page-header">
+  <h1>Markdown Cheatsheet</h1>
+</div>
+
+<div class="row">
+  <div class="span14">
+    <h3 id='kako_v_markdwon_editorju_urejamo_besedilo'>Kako v markdwon editorju urejamo besedilo.</h3>
+
+<p>Nekaj osnovnih navodil. Jih pa bom probal sproti z svojim spoznavanje in učenjem Markdown Editorja, še dopolnjevati. Več info o spodnjih &#8220;ukazih&#8221; tudi na tem naslovu -&gt; <a href='http://daringfireball.net/projects/markdown/syntax'>Markdown Sytax</a></p>
+<hr />
+<p><strong>Poševno in odebeljeno</strong></p>
+
+<pre><code>*poševno*   **odebeljeno**
+_poševno_   __odebeljeno__</code></pre>
+
+<p><strong>Povezava Znotraj besedila</strong></p>
+
+<pre><code>Le [primer](http://primer.com/ &quot;Naslov&quot;)</code></pre>
+
+<p><strong>Povezava znotraj besedila</strong></p>
+
+<pre><code>Le [primer][id]. Nato lahko kjerkoli v dokumentu nastaviš povezavo
+[id]: http://primer.com/  &quot;Naslov&quot;</code></pre>
+
+<p><strong>Sliko vstavi vse znotraj besedila</strong></p>
+
+<pre><code>![alt besedilo](/pot/slika.jpg &quot;Naslov&quot;)</code></pre>
+
+<p><strong>Slika z povezavo nekje drugje v dokumentu</strong></p>
+
+<pre><code>![alt besedilo][id]
+[id]: /url/to/img.jpg &quot;Naslov&quot;</code></pre>
+
+<p><strong>Slika z dodatnim classom</strong> <em>(npr. za postavitev levo ali desno, obliko definiraš v css-u)</em></p>
+
+<pre><code>![alt besedilo](/pot/slika.jpg &quot;Naslov&quot;){: .class}</code></pre>
+
+<p><strong>Naslovi</strong></p>
+
+<pre><code># Naslov H1
+## Naslov H2
+### Naslov H3
+#### Naslov H4
+##### Naslov H5</code></pre>
+
+<p><strong>Številčni seznam</strong></p>
+
+<pre><code>1. ena
+2. dva</code></pre>
+
+<p><strong>Alineje</strong></p>
+
+<pre><code>* prva alineja
+
+z večimi odstavki
+
+* druga alineja</code></pre>
+
+<p><strong>Citati</strong></p>
+
+<pre><code>&gt; citat
+&gt; &gt; Lahko je citat v citatu
+
+&gt; ### lahko je tudi naslov v citatu
+
+&gt; * ali seznam
+&gt; * itd...</code></pre>
+
+<p><strong>Koda</strong></p>
+
+<pre><code>`&lt;code&gt;` span je označen z backstick-om *(sorry ne najdem pravilnega slovenskega izraza/prevoda :))*.</code></pre>
+
+<p><strong>PRE</strong></p>
+
+<pre><code>za PRE &lt;pre&gt; lahko narediš 4 X presledek oz 1X tab</code></pre>
+
+<p><strong>Črta - <code>&lt;hr&gt;</code></strong></p>
+
+<pre><code>---
+
+* * *
+
+_ _ _ _</code></pre>
+
+<p><strong>V novo vrstico</strong></p>
+
+<pre><code>za prelom vrstice oz. prehod v novo vrstico
+je potrebno narediti na koncu prejšnje dva ali več presledkov</code></pre>
+
+<h3 id='takole_pa_izgleda_oblika_v_markdown_editorju_stran_ki_si_jo_sedajl_prebrala'>Takole pa izgleda oblika v markdown editorju stran ki si jo sedajl prebral/a.</h3>
+
+<p><img alt='Markdown editor vsebina' src='http://up.imamo.si/markdown-cheatsheet.md_—_blog2.png' /></p>
+  </div>
+</div>
+
+
+      </div>
+
+      <footer>
+        <p>&copy; Danijel 2013 
+          s pomočjo <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
+          in <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
+        </p>
+        <p><a href="http://www.imamo.si">IMAMO</a> | <a href="http://www.spletnaabecea.si">Spletno gostovanje</a></p>
+      </footer>
+
+    </div> <!-- /container -->
+
+    
+  </body>
+</html>
+

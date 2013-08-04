@@ -86,9 +86,33 @@ body {
 	margin-right: 5px;
 }
 
+/****** DODATNO OBLIKOVANJE CONTENTA**********/
+
+img.left{
+	float: left;
+	margin-right: 5px;
+}
+
+img.right{
+	float: right;
+	margin-left: 5px;
+}
+
+
+/******oblikovanje stranke *********/
+
+a.fb-share{
+    background: url('../img/fb-share.jpg') no-repeat;
+    display: block;
+    width: 80px;
+    height: 35px;
+}
+
 /*******GOOGLE SEARCH*********/
 
-div#cse {
+div#cse,
+div#cse-search-form
+ {
     width: 260px;
     position: relative;
     float: right;
@@ -142,7 +166,8 @@ div.gsc-control-cse.gsc-control-cse-sl {
     border-left-color: -moz-initial;
 }
 
-#cse table, #cse table th, #cse table td {
+#cse table, #cse table th, #cse table td,
+#cse-search-form table, #cse-search-form table th, #cse-search-form table td{
     border-top-width: 0;
     border-top-style: none;
     border-top-color: -moz-initial;
